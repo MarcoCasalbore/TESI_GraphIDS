@@ -5,7 +5,7 @@ Ordine di esecuzione degli script: train, test, gae
 
 Link ai dataset originali utilizzati dal paper:
 CIC-IDS2017  https://www.unb.ca/cic/datasets/ids-2017.html
-CIC-ToN-IoT  https://www.unb.ca/cic/datasets/iotdataset-2023.htmlù
+CIC-ToN-IoT  https://www.unb.ca/cic/datasets/iotdataset-2023.html
 
 Dataset utilizzato nelle mie prove:
 Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv (uno dei file del CIC-IDS2017)
