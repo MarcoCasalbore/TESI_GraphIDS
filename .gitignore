@@ -16,6 +16,10 @@ train_1min_graphs/
 train_commun_graphs/
 train_hetero_graphs_pt/
 
+val_1min_graphs/
+val_commun_graphs/
+val_hetero_graphs_pt/
+
 test_1min_graphs/
 test_commun_graphs/
 test_hetero_graphs_pt/
